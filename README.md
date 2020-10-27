@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello there](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
 - 🔭 I work at Medly Pharmacy as a Software Engineer.
 - 🌱 I’m currently learning Javascript/Typescript/React & Redux for my new job at Medly. 
